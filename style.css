@@ -1,0 +1,32 @@
+body {
+    background-color: #FCF6B1;
+  }
+  h2 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .list-style {
+    font-weight: 500;
+    font-size: 29px;
+    color: blue;
+  }
+  .list-style2 {
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .list-style3 {
+    font-size: 48px;
+    font-weight: bold;
+    color: brown;
+  }
+  .list-style4 {
+    font-size: 33px;
+    font-weight: italic;
+  }
+  .list-style5 {
+    font-size: 52px;
+    font-weight: bold;
+    color: red;
+  }
+  .picture{
+    border-radius: 100%;
+  }
